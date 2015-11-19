@@ -1,0 +1,63 @@
+.navbar {
+	
+}
+
+#nav-name {
+	margin-top: 5px;
+	padding-left: 60px;
+}
+
+#dropdown-button {
+	margin-top: 8px;
+}
+
+.dropdown-menu {
+	background-color: #fafafa;
+}
+
+#nav-option-a {
+	margin-top: 10px;
+	padding-left: 15px;
+	vertical-align: bottom;
+}
+
+#nav-option-b {
+	margin-top: 10px;
+	padding-left: 15px;
+	vertical-align: bottom;
+}
+
+#nav-option-c {
+	margin-top: 10px;
+	padding-left: 15px;
+	vertical-align: bottom;
+}
+
+#nav-username {
+	margin-top: 10px;
+	text-align: right;
+}
+
+#username-entry {
+	max-width: 150px;
+	margin-right: 10px;
+}
+
+.message-area {
+	margin-top: 90px;
+	margin-left: 50px;
+}
+
+#navbar-bottom {
+	height: 100px;
+}
+
+#send-msg {
+	margin-top: 20px;
+}
+
+#new-msg {
+	width: 700px;
+	height: 55px;
+	margin-right: 10px;
+}
